@@ -26,7 +26,7 @@ This code is under the terms of contitions of llamaking136's open source license
 If you wish to see the original license, view the file 'LICENSE' in the
 root folder or go to
 
-	https://new-web.notyourgroup.repl.co/licenses/open-source-1.txt
+	https://raw.githubusercontent.com/llamaking136/llamaking136-s-open-source-license/main/LICENSE.txt
 
 If you don't follow to these terms of conditions, it will not be tolerated
 and will be handled by the owner of the repository.
